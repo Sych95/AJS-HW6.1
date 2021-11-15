@@ -13,5 +13,10 @@
         "sourceType": "module"
     },
     "rules": {
+        "array-callback-return": "warn",
+        "import/prefer-default-export": "warn",
+        "no-restricted-syntax": "warn",
+        "consistent-return": "warn",
+        "no-unused-vars": "warn"
     }
 }

@@ -1,1 +1,1 @@
-console.log('hello world')
+import { sort } from './js/sort';
